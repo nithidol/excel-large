@@ -1,0 +1,14 @@
+
+“
+java:S2095"KUse try-with-resources or close this "SXSSFWorkbook" in a "finally" clause.(•¤âÓùÿÿÿÿ8§ğ÷2J$17a1518c-1489-45d8-8814-23e8c81a68ce
+p
+java:S1905"-Remove this unnecessary cast to "SXSSFSheet".(¿…³ù8ŞÚë2J$548a4f4e-20dd-4193-a4a6-51147b54bb12
+n
+java:S1905 "+Remove this unnecessary cast to "UserInfo".(ÌÏµÚ8²ğ÷2J$c06eb568-3817-4dbe-a8fb-b08cac5cd409
+s
+java:S1905!"+Remove this unnecessary cast to "SXSSFRow".(°‰²ûÿÿÿÿ8àÚë2J$15386eb3-df01-468d-bccf-0597d5540a12
+t
+java:S1905"",Remove this unnecessary cast to "SXSSFCell".(ô¦¿¼úÿÿÿÿ8áÚë2J$770f8a1d-2597-4bba-b739-2eea421f630d
+o
+java:S1905$",Remove this unnecessary cast to "SXSSFCell".(Øİ“ÿ8áÚë2J$246d222f-8050-4ad2-909f-57655e25e18b
+r	java:S106-"+Replace this use of System.out by a logger.(Ôÿ›èşÿÿÿÿ8¶ğ÷2J$1b6aee6d-2bf7-4354-b0a8-5b3a7ff3e84d
